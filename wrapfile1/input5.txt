@@ -1,0 +1,13 @@
+The C midterms are now marked.  However, as some students still need to write the midterm due to illness, we won't be taking them up until the week of Monday November 18.  I will be releasing the marks before that, though. 
+
+The overall average was 68%.  This is lower than last year (75%) but higher than two years ago (65%).  However, the split in marks is more polarized than in the past, with 40% of students getting 80 or above and 35% getting 60 or below. 
+
+No one qualified for the "second chance" at improving their Early-Term Exam mark. 
+
+I am extending the "second chance" to the Final Exam and modifying it in two ways.  Thus:
+
+if you got a mark of 70% or below (this is different from the previous second chance) on the Midterm Exam:
+
+If you get a Final Exam mark that exceeds your Midterm Exam mark by 10 points or higher (this is also different), your Midterm Exam mark will be replaced by the highest of the two marks, to a maximum of an Midterm Exam mark of 70%.
+This mark adjustment is applied automatically.
+If 5:17 PM 12/6/2013you got an Midterm Exam mark of over 70%, this does not apply.

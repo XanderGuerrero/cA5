@@ -1,0 +1,5 @@
+On Monday, we'll get more into arrays and how they can be used to store strings. 
+On Tuesday, we'll have the Early-term Exam. 
+On Thurs/Fri, we'll have the results of the Scavenger Hunt, as well as looking at some new controlaaaaaa
+
+statements that we can use instead of if and while.

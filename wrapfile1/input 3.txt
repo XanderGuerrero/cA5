@@ -1,0 +1,11 @@
+The mark and rubric feedback for Mini #2 is now online.  Some general issues that some had were:
+
+1) When getting input, the best way would be to use fgets() followed by sscanf(). 
+
+2) In the sscanf() call, the format string should be "%s %d %d".  The other parameters should be birthday.month, &birthday.day, &birthday.year.
+
+3) In the above scanf() call, birthday.month shouldn't have an ampersand in front of it to make it an address since it's an array.  "The name of an array is the same as the address of its very first element."  So, it's already an address.
+
+4) A few people tried to use sscanf_s without understanding how it really works.  The reason that it's a safer function to use is that it takes information about the size of the items it's filling in.  If you omit the information about the size, it doesn't work (and crashes).
+
+5) A few people forgot the file header comment.  It said explicitly in the requirements that you needed one.  EVERY source file you create MUST have one.
