@@ -270,7 +270,7 @@ int main( int argc, char * argv[] )
 					}
 			}
 
-			//The following code frees the memory allocated by malloc and the input file is closed.
+			// The following code frees the memory allocated by malloc and the input file is closed.
 			//if fclose() fails, the program returns 4 and exits
 			free( buffer );
 			if( fclose( ifp ) != 0 )
